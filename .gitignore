@@ -1,0 +1,9 @@
+# Veritabanını gizle
+data/*.db
+
+# Üretilen satış dosyalarını gizle
+*.txt
+
+# Python önbelleği
+__pycache__/
+.env
